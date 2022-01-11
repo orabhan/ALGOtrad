@@ -1,4 +1,3 @@
-# pyTrend
 
 Mode d'installation
 
